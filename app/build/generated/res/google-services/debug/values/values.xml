@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">970546450942-r05cd9kd26fseok5114aaebogc43lp69.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://dieschnittstelle-mad-todos.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">970546450942</string>
+    <string name="google_api_key" translatable="false">THE_API_KEY</string>
+    <string name="google_app_id" translatable="false">1:970546450942:android:d245e21bd62a4f57</string>
+    <string name="google_crash_reporting_api_key" translatable="false">THE_API_KEY</string>
+    <string name="google_storage_bucket" translatable="false">dieschnittstelle-mad-todos.appspot.com</string>
+    <string name="project_id" translatable="false">dieschnittstelle-mad-todos</string>
+</resources>
