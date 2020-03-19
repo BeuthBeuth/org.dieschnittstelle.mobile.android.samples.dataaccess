@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/org.dieschnittstelle.mobile.android.samples.dataaccess.iml" filepath="$PROJECT_DIR$/org.dieschnittstelle.mobile.android.samples.dataaccess.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="dataaccess/app" />
+      <module fileurl="file://$PROJECT_DIR$/dataaccess.iml" filepath="$PROJECT_DIR$/dataaccess.iml" group="dataaccess" />
     </modules>
   </component>
 </project>

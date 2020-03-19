@@ -10,7 +10,7 @@
     <string name="remotebackend_name">Remote Backend</string>
     
     <!--  the labels used for the details view -->
-    <string name="itemdetails_description">Beschreibung</string>    
+    <string name="itemdetails_description">Beschreibung:</string>
     <string name="itemdetails_name">Name</string>    
     
     <!-- the main menu items -->
